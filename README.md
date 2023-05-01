@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🧑‍🔧 I’m currently working with Scality as a Junior software engineer
+- 🌱 I’m currently learning game design and development in my free time
+
 <!--
 **eg-ayoub/eg-ayoub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
